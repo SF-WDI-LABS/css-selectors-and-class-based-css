@@ -1,6 +1,6 @@
 # CSS Selectors Practices
 
-#### Nature Drawing 101: Draw a Tree! - [solutions](solutions.md)
+## Nature Drawing 101: Draw a Tree! - [solutions](solutions.md)
 1. Draw the structure (DOM tree) of the following HTML document:
 
 ``` html
@@ -36,14 +36,16 @@
 * Name a direct parent of the `p` element
 * What is the parent of the `html` element?
 
-#### CSS Selector Challenge - [solutions](solutions.md)
+## CSS Selector Challenge - [solutions](solutions.md)
 Please refer to [this google doc](https://docs.google.com/document/d/1sKbuZaSio1o65iRdkNpB03pwJfJj98GPHUJQsoKJmE4/edit?usp=sharing).
 
 For each page, come up with as many CSS Selectors as you can think of to select the html elments in **red**, and *only* the elements in red.
 
-For practice with more advanced/obscure selectors, see [CSS Diner](https://flukeout.github.io/).
+#### Advanced CSS Selectors
+For practice with some of the more obscure selectors, see [CSS Diner](https://flukeout.github.io/).
 
-#### Class Based CSS Rules
+## Class Based CSS Rules
+For this challenge we recommend you clone the following [blank template](https://github.com/SF-WDI-LABS/blank_template).
 
 1. `.shout` changes text to be in all capital letters (as if you're shouting)
 1. `.avatar` make an image appear round, with a thin border or shadow. Limit its height to about 40px.
