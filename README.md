@@ -64,3 +64,5 @@ As you move through this challenge, you will need to write HTML to test your CSS
 ```html
 <h1 class="shout">why are you shouting at me?</h1>
 ```
+
+Spoilers: When you're finished. Take a good long look at the [list of awesome amazing components](http://getbootstrap.com/components/#alerts) in the Bootstrap CSS Framework.
