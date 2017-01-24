@@ -45,12 +45,19 @@ For each page, come up with as many CSS Selectors as you can think of to select 
 For practice with some of the more obscure selectors, see [CSS Diner](https://flukeout.github.io/).
 
 ## Class Based CSS Rules
-For this challenge we recommend you clone the following [blank template](https://github.com/SF-WDI-LABS/blank_template).
+We recommend you clone the following [blank template](https://github.com/SF-WDI-LABS/blank_template) so that you have a solid starting point.
 
-1. `.shout` changes text to be in all capital letters (as if you're shouting)
+For this challenge you will be writing class-based CSS rules that match the following descriptions:
+
+1. `.shout` changes text to be in all capital letters (as if you're shouting!)
 1. `.avatar` make an image appear round, with a thin border or shadow. Limit its height to about 40px.
 1. `.success`, `.info`, `.warn`, `.danger` - recreate the following effects on a block of text:
    ![alerts-all](https://cloud.githubusercontent.com/assets/1489337/22269495/6c044f80-e240-11e6-9de6-226b4beb9e45.png)
 1. `.container` elements with this style should have a maximum width of 800px, and be in the middle/center of the page.
 1. `.half-width`, `.third-width` -- elements with this style should take up only half or a third of the width of a page (and ideally they should be able to line up next to each other, e.g. like columns).
 
+As you go through this challenge you will need to create HTML to text your styles. For example, for problem 1 (`.shout`) you might want HTML like:
+
+```html
+<h1 class="shout">why are you shouting at me?</h1>
+```
