@@ -41,6 +41,8 @@ Please refer to [this google doc](https://docs.google.com/document/d/1sKbuZaSio1
 
 For each page, come up with as many CSS Selectors as you can think of to select the html elments in **red**, and *only* the elements in red.
 
+For practice with more advanced/obscure selectors, see [CSS Diner](https://flukeout.github.io/).
+
 #### Class Based CSS Rules
 
 1. `.shout` changes text to be in all capital letters (as if you're shouting)
