@@ -54,7 +54,7 @@ Create the following CSS rules:
     - ![img-circle](https://cloud.githubusercontent.com/assets/1489337/22270271/a8c466fa-e243-11e6-8457-72460378a30e.png)
 1. `.img-thumbnail` adds rounded corners and an inset border to an image.
     - ![img-thumbnail](https://cloud.githubusercontent.com/assets/1489337/22270292/b57544c8-e243-11e6-95c6-bf486eb5f731.png)
-1. `.success`, `.info`, `.warn`, `.danger` - recreate the following effects on a block of text:
+1. `.success`, `.info`, `.warning`, `.danger` - recreate the following effects on a block of text:
     - ![alerts-all](https://cloud.githubusercontent.com/assets/1489337/22269495/6c044f80-e240-11e6-9de6-226b4beb9e45.png)
 1. `.container` elements with this style should have a maximum width of 800px, and be in the middle/center of the page.
 1. `.half-width`, `.third-width` -- elements with this style should take up only half or a third of the width of a page (and ideally they should be able to line up next to each other, e.g. like columns).
